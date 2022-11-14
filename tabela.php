@@ -4,7 +4,7 @@
 <div class="container mb-3">
     <h1>alunos</h1>
     
-    <button>Adicionar Aluno</button>
+    <a href="cadastro.php" class="btn btn-dark mb-3" >Adicionar aluno</a>
 
     <table class=" table table-dark">
         <thead>
